@@ -1,3 +1,7 @@
 1. Create a git repo and clone it local
 
 2. Create code.py 
+
+6. How we do "dvc remote add -d myremore s3"
+
+9. Now "dvc commit" and then "dvc push"
